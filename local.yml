@@ -1,0 +1,5 @@
+- hosts: localhost
+  tasks:
+    - import_tasks: tasks/packages.yml
+    - import_tasks: tasks/zsh.yml
+    - import_tasks: tasks/dotfiles.yml
