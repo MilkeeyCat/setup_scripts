@@ -32,3 +32,4 @@
       - sys-apps/ripgrep
       - x11-apps/setxkbmap
       - x11-apps/xrandr
+      - media-sound/playerctl
